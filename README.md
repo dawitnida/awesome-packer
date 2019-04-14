@@ -14,7 +14,7 @@ images for multiple platforms in parallel. Packer does not replace configuration
 In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.
 
 
-**_You can see the updates from [Awesome Packer Twitter](https://twitter.com/awesome_packer)_**
+**_You can see the updates from [@awesome_packer](https://twitter.com/awesome_packer)_**
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 - [Official Resources](#official-resources)
 - [Books](#books)
 - Community
-* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - Libraries
    - Custom Builders
    - Custom Provisioners
@@ -56,5 +56,6 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ### Custom Templates
 
 * [How to Create Custom Templates with Packer](https://upcloud.com/community/tutorials/upcloud-packer-builder/)
+
 
 [sindresorhus]: <https://github.com/sindresorhus/awesome>
