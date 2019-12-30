@@ -43,6 +43,12 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 
 * [The Packer Book](https://packerbook.com/)
 
+## Libraries
+
+### Custom Provisioners
+
+* [deno](https://github.com/dontlaugh/packer-provisioner-deno) - Use [Deno](https://deno.land/) TypeScript or JavaScript for provisioning.
+
 
 ## Tutorials and Blog Posts
 
