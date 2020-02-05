@@ -21,7 +21,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 
 - [Official Resources](#official-resources)
 - [Books](#books)
-- Community
+- [Community](#community)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - Libraries
    - Custom Builders
@@ -42,6 +42,10 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ## Books
 
 * [The Packer Book](https://packerbook.com/)
+
+## Community
+
+* [Racker](https://github.com/aspring/racker) - opinionated Ruby DSL for generating Packer templates
 
 ## Libraries
 
