@@ -28,7 +28,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
    - Custom Provisioners
    - Custom Post-Processors
 - Templates
-- Talks
+- [Talks](#Talks)
 
 
 ## Official Resources
@@ -67,5 +67,9 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 
 * [How to Create Custom Templates with Packer](https://upcloud.com/community/tutorials/upcloud-packer-builder/)
 
+### Talks
 
-[sindresorhus]: <https://github.com/sindresorhus/awesome>
+* [Hashicorp Packer Resources][hashicorp-resource-lib]
+
+[sindresorhus]:            <https://github.com/sindresorhus/awesome>
+[hashicorp-resource-lib]:  <https://www.hashicorp.com/resources?product=Packer>
