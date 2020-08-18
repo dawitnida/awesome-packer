@@ -46,6 +46,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ## Community
 
 * [Racker](https://github.com/aspring/racker) - opinionated Ruby DSL for generating Packer templates
+* [Community repository](https://github.com/packer-community) - a suite of Packer plugin repos
 
 ## Libraries
 
