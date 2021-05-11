@@ -28,7 +28,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
    - Custom Provisioners
    - Custom Post-Processors
 - Templates
-- [Talks](#Talks)
+- [Talks](#talks)
 
 
 ## Official Resources
@@ -42,6 +42,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ## Books
 
 * [The Packer Book](https://packerbook.com/)
+* [AWS SysOps Cookbook (2nd Edition)](https://www.oreilly.com/library/view/aws-sysops-cookbook/9781838550189/) - Creating machine images with Hashicorp's Packer
 
 ## Community
 
@@ -57,20 +58,30 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 
 ## Tutorials and Blog Posts
 
+* [Using GitLab CI/CD Pipelines to Automate your HashiCorp Packer Builds](https://virtualhobbit.com/2020/05/05/using-gitlab-ci-cd-pipelines-to-automate-your-hashicorp-packer-builds/)
+* [How to create custom templates with Packer](https://upcloud.com/community/tutorials/upcloud-packer-builder/)
+
+
 ### Beginner Guides
 
 * [Automate AMI Creation](https://devopscube.com/packer-tutorial-for-beginners/)
 * [Automation of AMI Creation Using Packer](https://www.talentica.com/blogs/automation-of-ami-creation-using-packer/)
 * [Build Your Own EC2 Machine Images with Packer & Ansible on AWS for Immutable AWS Deployments](https://medium.com/devopslinks/build-your-own-ec2-machine-images-with-packer-ansible-on-aws-for-immutable-aws-deployments-f7dbe81934a1)
+* [StackExchange: Questions tagged [packer]](https://devops.stackexchange.com/questions/tagged/packer)
 
 
 ### Custom Templates
 
 * [How to Create Custom Templates with Packer](https://upcloud.com/community/tutorials/upcloud-packer-builder/)
 
+
 ### Talks
 
+* [Building Automated Pipelines for Infrastructure Code with Terraform and Packer](https://youtu.be/4uxUScFWzPc)
+* [Packer @ Pinterest](https://youtu.be/L-DMwEN_mUk)
+* [Using Terraform, Packer, and Ansible Together - Aaron Krauss: DevOps OKC](https://youtu.be/pkEezNSFWtA)
 * [Hashicorp Packer Resources][hashicorp-resource-lib]
+
 
 [sindresorhus]:            <https://github.com/sindresorhus/awesome>
 [hashicorp-resource-lib]:  <https://www.hashicorp.com/resources?product=Packer>
