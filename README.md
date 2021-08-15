@@ -27,6 +27,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
    - Custom Builders
    - Custom Provisioners
    - Custom Post-Processors
+   - Custom Wrappers
 - Templates
 - [Talks](#talks)
 
@@ -54,6 +55,11 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ### Custom Provisioners
 
 * [deno](https://github.com/dontlaugh/packer-provisioner-deno) - Use [Deno](https://deno.land/) TypeScript or JavaScript for provisioning.
+
+
+#### Custom Wrappers
+
+* [python-packer](https://github.com/abhi1693/python-packer) - A Python interface for packer.io (credit [@abhi1693](https://github.com/abhi1693))
 
 
 ## Tutorials and Blog Posts
