@@ -55,6 +55,7 @@ In fact, when building images, Packer is able to use tools like Chef or Puppet t
 ### Custom Provisioners
 
 * [deno](https://github.com/dontlaugh/packer-provisioner-deno) - Use [Deno](https://deno.land/) TypeScript or JavaScript for provisioning.
+* [cue](https://github.com/dontlaugh/packer-plugin-cue) - Use [CUE](https://cuelang.org/) for data and file rendering during a Packer build.
 
 
 #### Custom Wrappers
